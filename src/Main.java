@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int i = 10;
         int j = 20;
+        int m = 1000;
         int[] arr = {1, 2, 3};
         boolean f = false;
         if (f){
